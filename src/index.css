@@ -6,3 +6,9 @@
 	max-width: 70%;
 	height: 100px;
 }
+#img-div{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: fit-content;
+}
