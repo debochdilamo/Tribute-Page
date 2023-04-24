@@ -11,6 +11,7 @@ function App() {
 				</figure>
 				<section id="tribute-info">
           <h1>Here's a time line of Dr. Borlaug's life:</h1>
+          <a href="#" id="tribute-link" target='_blank'></a>
         </section>
 			</main>
 		</>
