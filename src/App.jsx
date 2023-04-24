@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>Hello WORLD!!</h1>
+      <main id='main'>
+        <h1 id='title'>Dr. Norman Borlaug</h1>
+      </main>
     </>
   )
 }
